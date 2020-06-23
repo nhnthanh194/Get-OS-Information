@@ -8,4 +8,5 @@ Collect your OS information include:
 - Disk drive
 - Mount point
 - Firewall Status
+
 Those items which your will take a look when setup ur Linux. 
